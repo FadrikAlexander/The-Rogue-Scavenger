@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56aa500682ffe2445a29765778e0b52a, type: 3}
+  m_Name: TestBarrel
+  m_EditorClassIdentifier: 
+  ComponentName: Bolt
+  ComponentArt: {fileID: -3199707574113559339, guid: 43860c02dcb4cc54bbb538231f673975,
+    type: 3}
+  DamageMultipler: 1
+  Bullet: 1
+  BulletSpeed: 10
+  PowerConsumptionPerShot: 1
