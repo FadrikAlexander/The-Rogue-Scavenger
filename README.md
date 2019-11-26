@@ -2,6 +2,8 @@
 
 The Rogue Scavenger is a Free Unity Asset that can create an infinite number of ships by changing the parts on each system, also contains a thruster-based movement and central power management.
 
+Full PlayList: https://www.youtube.com/playlist?list=PL0aV5id64zH0bR7cLyjcJir9FBFeci-r4​
+
 The bundle contains:
 
 - Thurster-based Movement [ShipMovement.cs and ThrusterController.cs]
@@ -23,6 +25,6 @@ The bundle contains:
     
 Tractor Beam System is controlled by pressing "Space".
 The UI can be activated by pressing 1 or 2 for each system.
-and also you can target astroids by pressing with the "Right mouse button" on them or disable a gun doing the same.
+and also you can target asteroids by pressing with the "Right mouse button" on them or disable a gun doing the same.
 
 PS: All scripts and art are free to use with no copyrights.
