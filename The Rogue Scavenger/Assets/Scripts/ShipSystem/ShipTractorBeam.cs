@@ -17,7 +17,6 @@ public class ShipTractorBeam : ScriptableObject
     public float RotationSpeed;
 
 
-
     public string GetAsString()
     {
         string s = "Tractor Range: " + TractorRange + "\nTractor Speed: " + TractorSpeed + "\nStorage Space: " + StorageSpace + "\n";
